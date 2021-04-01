@@ -1,0 +1,20 @@
+.video {
+    text-align: center;
+    width: 560;
+    height: 315;
+}
+
+.language {
+    width: 380;
+    height: 380;
+}
+
+.swimming {
+    width: 380;
+    height: 380;
+
+}
+
+body{
+    text-align: center;
+}
